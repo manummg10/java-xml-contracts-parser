@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONTRATOS>
+    <CONTRATO>
+        <ID>2025-0001</ID>
+        <EJERCICIO>2025</EJERCICIO>
+        <PROVEEDOR>Proveedor A</PROVEEDOR>
+        <OBJETO>Servicio de mantenimiento de equipos informáticos</OBJETO>
+        <IMPORTE>4500.00</IMPORTE>
+        <TIPO_DE_CONTRATO>Servicios</TIPO_DE_CONTRATO>
+        <FECHA>2025-01-15</FECHA>
+        <ORGANISMO>Consejería de Educación</ORGANISMO>
+    </CONTRATO>
+
+    <CONTRATO>
+        <ID>2025-0002</ID>
+        <EJERCICIO>2025</EJERCICIO>
+        <PROVEEDOR>Proveedor B</PROVEEDOR>
+        <OBJETO>Suministro de material sanitario básico</OBJETO>
+        <IMPORTE>2950.50</IMPORTE>
+        <TIPO_DE_CONTRATO>Servicios</TIPO_DE_CONTRATO>
+        <FECHA>2025-02-01</FECHA>
+        <ORGANISMO>Consejería de Salud</ORGANISMO>
+    </CONTRATO>
+
+    <CONTRATO>
+        <ID>2025-0003</ID>
+        <EJERCICIO>2025</EJERCICIO>
+        <PROVEEDOR>Proveedor C</PROVEEDOR>
+        <OBJETO>Reparación de maquinaria agrícola</OBJETO>
+        <IMPORTE>3200.00</IMPORTE>
+        <TIPO_DE_CONTRATO>Servicios</TIPO_DE_CONTRATO>
+        <FECHA>2025-02-10</FECHA>
+        <ORGANISMO>Consejería de Agricultura</ORGANISMO>
+    </CONTRATO>
+
+    <CONTRATO>
+        <ID>2025-0004</ID>
+        <EJERCICIO>2025</EJERCICIO>
+        <PROVEEDOR>Proveedor D</PROVEEDOR>
+        <OBJETO>Mantenimiento de flota de vehículos</OBJETO>
+        <IMPORTE>5000.00</IMPORTE>
+        <TIPO_DE_CONTRATO>Servicios</TIPO_DE_CONTRATO>
+        <FECHA>2025-03-05</FECHA>
+        <ORGANISMO>Consejería de Transporte</ORGANISMO>
+    </CONTRATO>
+
+    <CONTRATO>
+        <ID>2025-0005</ID>
+        <EJERCICIO>2025</EJERCICIO>
+        <PROVEEDOR>Proveedor E</PROVEEDOR>
+        <OBJETO>Organización de eventos culturales</OBJETO>
+        <IMPORTE>1500.00</IMPORTE>
+        <TIPO_DE_CONTRATO>Servicios</TIPO_DE_CONTRATO>
+        <FECHA>2025-03-20</FECHA>
+        <ORGANISMO>Consejería de Cultura</ORGANISMO>
+    </CONTRATO>
+
+    <CONTRATO>
+        <ID>2025-0006</ID>
+        <EJERCICIO>2025</EJERCICIO>
+        <PROVEEDOR>Proveedor F</PROVEEDOR>
+        <OBJETO>Compra de maquinaria industrial</OBJETO>
+        <IMPORTE>12000.00</IMPORTE>
+        <TIPO_DE_CONTRATO>Suministros</TIPO_DE_CONTRATO>
+        <FECHA>2025-04-01</FECHA>
+        <ORGANISMO>Consejería de Industria</ORGANISMO>
+    </CONTRATO>
+
+    <CONTRATO>
+        <ID>2025-0007</ID>
+        <EJERCICIO>2025</EJERCICIO>
+        <PROVEEDOR>Proveedor G</PROVEEDOR>
+        <OBJETO>Reforestación de zonas degradadas</OBJETO>
+        <IMPORTE>3500.00</IMPORTE>
+        <TIPO_DE_CONTRATO>Servicios</TIPO_DE_CONTRATO>
+        <FECHA>2025-04-15</FECHA>
+        <ORGANISMO>Consejería de Medio Ambiente</ORGANISMO>
+    </CONTRATO>
+
+    <CONTRATO>
+        <ID>2025-0008</ID>
+        <EJERCICIO>2025</EJERCICIO>
+        <PROVEEDOR>Proveedor H</PROVEEDOR>
+        <OBJETO>Promoción turística</OBJETO>
+        <IMPORTE>2700.00</IMPORTE>
+        <TIPO_DE_CONTRATO>Servicios</TIPO_DE_CONTRATO>
+        <FECHA>2025-05-01</FECHA>
+        <ORGANISMO>Consejería de Turismo</ORGANISMO>
+    </CONTRATO>
+
+    <CONTRATO>
+        <ID>2025-0009</ID>
+        <EJERCICIO>2025</EJERCICIO>
+        <PROVEEDOR>Proveedor I</PROVEEDOR>
+        <OBJETO>Consultoría económica</OBJETO>
+        <IMPORTE>4000.00</IMPORTE>
+        <TIPO_DE_CONTRATO>Servicios</TIPO_DE_CONTRATO>
+        <FECHA>2025-05-10</FECHA>
+        <ORGANISMO>Consejería de Economía</ORGANISMO>
+    </CONTRATO>
+
+    <CONTRATO>
+        <ID>2025-0010</ID>
+        <EJERCICIO>2025</EJERCICIO>
+        <PROVEEDOR>Proveedor J</PROVEEDOR>
+        <OBJETO>Compra de material escolar</OBJETO>
+        <IMPORTE>6000.00</IMPORTE>
+        <TIPO_DE_CONTRATO>Suministros</TIPO_DE_CONTRATO>
+        <FECHA>2025-05-20</FECHA>
+        <ORGANISMO>Consejería de Educación</ORGANISMO>
+    </CONTRATO>
+</CONTRATOS>
+

@@ -1,0 +1,6 @@
+com\Contratos\xml\XMLWriter.class
+com\Contratos\dao\Database.class
+com\Contratos\dao\ContratoDAO.class
+com\Contratos\model\Contrato.class
+com\Contratos\Main.class
+com\Contratos\xml\DOMParserXML.class
