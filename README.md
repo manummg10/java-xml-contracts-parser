@@ -24,7 +24,7 @@ Este proyecto forma parte del trabajo del módulo **Acceso a Datos** del ciclo D
 
 ## 🛠 Tecnologías utilizadas
 
-- **Java 24**  
+- **Java 17**  
 - **DOM Parser (javax.xml.parsers / org.w3c.dom)**  
 - **MySQL 8**  
 - **JDBC**  
