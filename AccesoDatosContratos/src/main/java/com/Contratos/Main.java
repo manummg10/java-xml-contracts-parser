@@ -4,7 +4,7 @@
  */
 /**
  *
- * @author usuario
+ * @author Manu_
  */
 package com.Contratos;
 
@@ -29,7 +29,7 @@ public class Main {
         int dbPort = 3306;
         String dbName = "contratos";
         String dbUser = "root";
-        String dbPass = "root";
+        String dbPass = "";// Pon tu contraseña
 
         try {
             System.out.println("Iniciando parseo DOM...");
